@@ -1,5 +1,6 @@
 ## 안녕하세요, 프론트엔드 개발자 최유정입니다. 👋
 | Part | Stacks |
+| ----- | ----- |
 | Language | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  |
 | Style | ----- |
 | Library & Franework | ----- |
